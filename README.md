@@ -12,6 +12,11 @@
 - 방법:
   1) 테이블의 길이 정보 데이터 분석에 기반한 전진 시간 계산
   2) 테이블의 재질 정보 데이터 분석에 기반한 180도 방향 전환 각도 계산
+* 차체 설계 사진
+<p align='left center'>
+  <img src="https://github.com/user-attachments/assets/7ed996d2-6909-4345-902d-a92a76dd6aaa" width=50%>
+  <img src="https://github.com/user-attachments/assets/513f322c-5551-4710-9e36-7193796de7f0" width=50%>
+<p/>
 * 성과
 1. 하드웨어가 필요한 상황에서 예외 없는 프로세스가 수행되기 위해서는 주변 환경(특히, 물리량) 데이터도 고려해야 함을 배움.
 2. 하드웨어가 요구 조건에 알맞게 동작하기 위해서는 아래와 같은 소프트웨어적 사고 능력이 필요함을 배움.
