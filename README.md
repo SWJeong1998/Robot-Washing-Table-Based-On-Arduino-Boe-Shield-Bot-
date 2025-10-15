@@ -18,7 +18,7 @@
   <img src="https://github.com/user-attachments/assets/513f322c-5551-4710-9e36-7193796de7f0" width=50%>
 <p/>
 
-* 설계도(UML 다이어그램)
+* 시스템 설계도(UML 다이어그램)
   <p align='left ccenter'>
     <img width="2081" height="621" alt="Arduino2021_ drawio" src="https://github.com/user-attachments/assets/bca2deeb-0438-44a9-9e61-cc8687498a1b" />
   </p>
